@@ -4,7 +4,6 @@ import NavBar from "./components/NavBar";
 import StyleWrapper from "./components/StyleWrapper";
 import Footer from "./components/Footer";
 
-
 const user = {
   firstName: "Olivia",
   lastName: "Parker",
