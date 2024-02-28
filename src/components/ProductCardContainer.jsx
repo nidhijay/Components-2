@@ -13,7 +13,7 @@ export default function ProductCardContainer({ products }) {
           price={product.price}
           imageUrl={product.imageUrl}
           isInStock={product.isInStock}
-          style={{ marginBottom: '20px' }} // Optional: Adding some margin between cards
+          style={{ marginBottom: '20px' }} 
         />
       ))}
     </>
